@@ -64,21 +64,9 @@
 
 ## 运行效果
 
-> 这里预留运行效果展示位置。下一步可以在运行程序后，将截图或录屏 GIF 放在本节中，建议展示默认参数、`Max Bounces = 2`、`Max Bounces = 3+` 以及移动光源后的阴影变化。
+<img width="480" height="388" alt="6eGo1V3t_converted" src="https://github.com/user-attachments/assets/79e02efd-9692-49f8-9f56-ec8387e8238f" />
 
-<!-- TODO: 在此处插入运行截图或 GIF，例如：
-![运行效果示例](docs/images/render-preview.png)
--->
 
-建议补充内容：
-
-- 默认场景整体效果图。
-- 镜面球反射对比图。
-- 玻璃球在不同 `Max Bounces` 下的效果对比。
-- 光源位置变化时的硬阴影移动效果。
-- 不同 `Samples / Pixel` 下的抗锯齿对比。
-
----
 
 ## 运行环境
 
